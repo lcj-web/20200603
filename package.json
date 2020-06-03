@@ -1,0 +1,25 @@
+{
+  "name": "20200603",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "less": "lessc css/index.less css/index.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcj-web/20200603.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcj-web/20200603/issues"
+  },
+  "homepage": "https://github.com/lcj-web/20200603#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.5.1",
+    "less": "^3.11.2"
+  }
+}
